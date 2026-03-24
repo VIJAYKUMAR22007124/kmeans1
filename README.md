@@ -102,13 +102,7 @@ plt.show()
 
 ### Output:
 
-<img width="1108" height="138" alt="image" src="https://github.com/user-attachments/assets/8cae4746-a00c-4527-b080-aa4095d2756f" />
-
-<img width="1023" height="641" alt="image" src="https://github.com/user-attachments/assets/a9e3914b-51f1-43f3-a941-afd48be65de9" />
-
-<img width="945" height="688" alt="image" src="https://github.com/user-attachments/assets/7bf5bd6b-bdd7-4dfe-9fc5-76f2ec5ed646" />
-
-
+<img width="687" height="513" alt="image" src="https://github.com/user-attachments/assets/97948be5-88de-4572-ad13-06fba0078828" />
 
 
 
